@@ -1,0 +1,6 @@
+@AlumniConnect_HostAddress = http://localhost:5212
+
+GET {{AlumniConnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
